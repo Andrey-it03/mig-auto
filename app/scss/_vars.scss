@@ -1,0 +1,24 @@
+$text: #2C2D2E;
+$background: #ECECEC;
+$button: #4865D9; 
+
+
+$under-footer: #DBDEED;
+$content-footer: #E8EAF4 ; 
+
+
+@mixin f300{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+}
+
+@mixin f500{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+}
+
+
+@mixin f700{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+}
